@@ -262,11 +262,4 @@ title: Yoann Saunier | Full Stack Web Developer
 
 </div>
 
-<script src="assets/js/core/jquery.3.2.1.min.js"></script>
-<script src="assets/js/core/popper.min.js"></script>
-<script src="assets/js/core/bootstrap.min.js"></script>
-<script src="assets/js/now-ui-kit.js?v=1.1.0"></script>
-<script src="assets/js/aos.js"></script>
-<script src="assets/scripts/main.js"></script>
-
-<script src="assets/js/gallery.js"></script>
+<script src="assets/js/application.min.js"></script>

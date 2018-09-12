@@ -1,3 +1,5 @@
+import $ from 'jquery';
+
 /*!
 
  =========================================================
@@ -24,6 +26,10 @@ var fixedTop = false;
 var navbar_initialized,
     backgroundOrange = false,
     toggle_initialized = false;
+
+window.$navbar = null;
+window.scroll_distance = 0;
+window.oVal = null;
 
 $(document).ready(function() {
     //  Activate the Tooltips
@@ -133,7 +139,7 @@ $(document).on('click', '.navbar-toggler', function() {
     }
 });
 
-nowuiKit = {
+window.nowuiKit = {
     misc: {
         navbar_menu_visible: 0
     },
@@ -201,7 +207,7 @@ nowuiKit = {
 var big_image;
 
 // Javascript just for Demo purpose, remove it from your project
-nowuiKitDemo = {
+window.nowuiKitDemo = {
     checkScrollForParallax: debounce(function() {
         var current_scroll = $(this).scrollTop();
 
