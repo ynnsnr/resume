@@ -95,12 +95,15 @@ title: Yoann Saunier | Full Stack Web Developer
               <p><a href="http://treep.pw">Treep</a> is the final project I made with my team during <a href="https://www.lewagon.com">Le Wagon</a>. A visual decision system tool for travel agencies. By helping them create trips quickly and easily, and visualizing different possible itineraries, <a href="http://treep.pw">Treep</a> enhances both flexibility and communication with travelers.</p>
             </div>
             <div class="col-lg-8">
-              <ul id="imageGallery">
+              <!-- <ul id="imageGallery">
                 <li><a href="assets/images/treep-home.jpg"><img src="assets/images/treep-home.jpg"></a></li>
                 <li><a href="assets/images/treep-index.jpg"><img src="assets/images/treep-index.jpg"></a></li>
                 <li><a href="assets/images/treep-show.jpg"><img src="assets/images/treep-show.jpg"></a></li>
                 <li><a href="assets/images/treep-preview.jpg"><img src="assets/images/treep-preview.jpg"></a></li>
-              </ul>
+              </ul> -->
+              <div class="youtube-container">
+                <div id="video"></div>
+              </div>
             </div>
           </div>
 

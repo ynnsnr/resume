@@ -598,3 +598,25 @@ ul#imageGallery li a img {
 #imageGallery img {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.24);
 }
+
+.youtube-container {
+  position: relative;
+  max-width: 525px;
+  min-height: 206px;
+  margin: 4% auto;
+  padding-bottom: 46.6%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.24);
+  iframe {
+    width: 100%;
+    height: 100%;
+  }
+}
+#video {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-image: url("../../assets/images/treep-home-play.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+}
