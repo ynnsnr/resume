@@ -163,7 +163,11 @@ title: Yoann Saunier | Full Stack Web Developer
               <div class="skills-elements"><img src="assets/images/heroku.png">Heroku</div>
             </div>
           </div>
-
+          <div class="text-center" style="opacity: 0.9;">
+            <a href="https://www.codewars.com/users/ynnsnr" target="_blank">
+              <img src="https://www.codewars.com/users/ynnsnr/badges/micro">
+            </a>
+          </div>
         </div>
       </div>
     </div>
