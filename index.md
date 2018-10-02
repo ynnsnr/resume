@@ -163,11 +163,11 @@ title: Yoann Saunier | Full Stack Web Developer
               <div class="skills-elements"><img src="assets/images/heroku.png">Heroku</div>
             </div>
           </div>
-          <div class="text-center" style="opacity: 0.9;">
+          <!-- <div class="text-center" style="opacity: 0.9;">
             <a href="https://www.codewars.com/users/ynnsnr" target="_blank">
               <img src="https://www.codewars.com/users/ynnsnr/badges/micro">
             </a>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -178,7 +178,7 @@ title: Yoann Saunier | Full Stack Web Developer
       <div class="h4 text-center mb-4 title"><i class="fas fa-graduation-cap"></i> Education</div>
 
       <div class="card">
-        <div class="row">
+        <div class="row" style="margin: 0 !important">
           <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
             <div class="card-body cc-education-header">
               <p>Summer 2018</p>
@@ -196,7 +196,7 @@ title: Yoann Saunier | Full Stack Web Developer
       </div>
 
       <div class="card">
-        <div class="row">
+        <div class="row" style="margin: 0 !important">
           <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
             <div class="card-body cc-education-header">
               <p>2010 - 2014</p>
@@ -214,7 +214,7 @@ title: Yoann Saunier | Full Stack Web Developer
       </div>
 
       <div class="card">
-        <div class="row">
+        <div class="row" style="margin: 0 !important">
           <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
             <div class="card-body cc-education-header">
               <p>2008 - 2010</p>

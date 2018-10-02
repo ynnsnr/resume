@@ -465,8 +465,9 @@ img {
 //   max-width: 275px !important;
 // }
 .cc-education .cc-education-header {
-  padding-top: 60px;
-  padding-right: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   text-align: center;
   color: #fff;
 }
