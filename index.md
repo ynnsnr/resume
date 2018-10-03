@@ -10,7 +10,6 @@ title: Yoann Saunier | Full Stack Web Developer
     <nav class="navbar navbar-expand-lg fixed-top navbar-transparent bg-primary" color-on-scroll="400">
       <div class="container">
         <div class="navbar-translate">
-          <!-- <a class="navbar-brand" href="#">Home</a> -->
           <div class="navbar-brand">
             <a class="btn btn-link" href="https://www.linkedin.com/in/yoann-saunier-536368151">
               <i class="fab fa-linkedin"></i>
@@ -21,23 +20,44 @@ title: Yoann Saunier | Full Stack Web Developer
             <!-- <a class="btn btn-link" href="https://www.facebook.com/djyoyo">
               <i class="fab fa-facebook"></i>
             </a> -->
-            <!-- <a class="btn btn-link" href="https://twitter.com/yoann_saunier">
+            <a class="btn btn-link" href="https://twitter.com/yoann_saunier">
               <i class="fab fa-twitter"></i>
-            </a> -->
+            </a>
           </div>
-          <button class="navbar-toggler">
+          <button type="button" class="navbar-toggler" data-toggle="dropdown">
             <span class="navbar-toggler-bar bar1"></span>
             <span class="navbar-toggler-bar bar2"></span>
             <span class="navbar-toggler-bar bar3"></span>
           </button>
+          <div class="dropdown-menu dropdown-menu-right">
+            <div class="dropdown-item">
+              <a href="#experience" class="smooth-scroll">Experience</a>
+            </div>
+            <div class="dropdown-item">
+              <a href="#skills" class="smooth-scroll">Skills</a>
+            </div>
+            <div class="dropdown-item">
+              <a href="#education" class="smooth-scroll">Education</a>
+            </div>
+            <div class="dropdown-item">
+              <a href="#contact" class="smooth-scroll">Contact</a>
+            </div>
+          </div>
         </div>
         <div class="navbar-collapse justify-content-end">
           <ul class="navbar-nav">
-            <!-- <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">About</a></li> -->
-            <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Experience</a></li>
-            <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
-            <li class="nav-item"><a class="nav-link smooth-scroll" href="#education">Education</a></li>
-            <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contact</a></li>
+            <li class="nav-item">
+              <a class="nav-link smooth-scroll" href="#experience">Experience</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link smooth-scroll" href="#skill">Skills</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link smooth-scroll" href="#education">Education</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link smooth-scroll" href="#contact">Contact</a>
+            </li>
           </ul>
         </div>
       </div>
@@ -137,14 +157,14 @@ title: Yoann Saunier | Full Stack Web Developer
         <div class="card-body">
 
           <div class="row" id="skills">
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3">
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3" style="padding-bottom: 15px">
               <h6>Back-End</h6>
               <div class="skills-elements"><img src="assets/images/ruby.png">Ruby</div>
               <div class="skills-elements"><img src="assets/images/rails.png">Ruby on Rails</div>
               <div class="skills-elements"><img src="assets/images/middleman.png">Middleman</div>
               <div class="skills-elements"><img src="assets/images/jekyll.png">Jekyll</div>
             </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3">
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3" style="padding-bottom: 15px">
               <h6>Front-End</h6>
               <div class="skills-elements"><img src="assets/images/html.png">HTML5</div>
               <div class="skills-elements"><img src="assets/images/css.png">CSS3 / SASS</div>
@@ -152,11 +172,11 @@ title: Yoann Saunier | Full Stack Web Developer
               <div class="skills-elements"><img src="assets/images/bootstrap.png">Bootstrap</div>
               <div class="skills-elements"><img src="assets/images/react.png">React</div>
             </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3">
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3" style="padding-bottom: 15px">
               <h6>Database</h6>
               <div class="skills-elements"><img src="assets/images/postgresql.png">PostGreSQL</div>
             </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3">
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3" style="padding-bottom: 15px">
               <h6>DevOps</h6>
               <div class="skills-elements"><img src="assets/images/git.png">Git</div>
               <div class="skills-elements"><img src="assets/images/github.svg">Github</div>
@@ -254,9 +274,9 @@ title: Yoann Saunier | Full Stack Web Developer
                     <!-- <a class="cc-social btn btn-link" href="https://www.facebook.com/djyoyo">
                       <i class="fab fa-facebook fa-3x" aria-hidden="true"></i>
                     </a> -->
-                    <!-- <a class="cc-social btn btn-link" href="https://twitter.com/yoann_saunier">
+                    <a class="cc-social btn btn-link" href="https://twitter.com/yoann_saunier">
                       <i class="fab fa-twitter fa-3x" aria-hidden="true"></i>
-                    </a> -->
+                    </a>
                   </div>
                 </div>
               </div>
