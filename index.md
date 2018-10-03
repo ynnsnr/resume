@@ -18,12 +18,12 @@ title: Yoann Saunier | Full Stack Web Developer
             <a class="btn btn-link" href="https://github.com/ynnsnr">
               <i class="fab fa-github"></i>
             </a>
-            <a class="btn btn-link" href="https://www.facebook.com/djyoyo">
+            <!-- <a class="btn btn-link" href="https://www.facebook.com/djyoyo">
               <i class="fab fa-facebook"></i>
-            </a>
-            <a class="btn btn-link" href="https://twitter.com/yoann_saunier">
+            </a> -->
+            <!-- <a class="btn btn-link" href="https://twitter.com/yoann_saunier">
               <i class="fab fa-twitter"></i>
-            </a>
+            </a> -->
           </div>
           <button class="navbar-toggler">
             <span class="navbar-toggler-bar bar1"></span>
@@ -137,14 +137,14 @@ title: Yoann Saunier | Full Stack Web Developer
         <div class="card-body">
 
           <div class="row" id="skills">
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3" style="margin-bottom: 30px;">
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3">
               <h6>Back-End</h6>
               <div class="skills-elements"><img src="assets/images/ruby.png">Ruby</div>
               <div class="skills-elements"><img src="assets/images/rails.png">Ruby on Rails</div>
               <div class="skills-elements"><img src="assets/images/middleman.png">Middleman</div>
               <div class="skills-elements"><img src="assets/images/jekyll.png">Jekyll</div>
             </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3" style="margin-bottom: 30px;">
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3">
               <h6>Front-End</h6>
               <div class="skills-elements"><img src="assets/images/html.png">HTML5</div>
               <div class="skills-elements"><img src="assets/images/css.png">CSS3 / SASS</div>
@@ -152,11 +152,11 @@ title: Yoann Saunier | Full Stack Web Developer
               <div class="skills-elements"><img src="assets/images/bootstrap.png">Bootstrap</div>
               <div class="skills-elements"><img src="assets/images/react.png">React</div>
             </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3" style="margin-bottom: 30px;">
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3">
               <h6>Database</h6>
               <div class="skills-elements"><img src="assets/images/postgresql.png">PostGreSQL</div>
             </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3" style="margin-bottom: 25px;">
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3">
               <h6>DevOps</h6>
               <div class="skills-elements"><img src="assets/images/git.png">Git</div>
               <div class="skills-elements"><img src="assets/images/github.svg">Github</div>
@@ -251,12 +251,12 @@ title: Yoann Saunier | Full Stack Web Developer
                     <a class="cc-social btn btn-link" href="https://github.com/ynnsnr">
                       <i class="fab fa-github fa-3x" aria-hidden="true"></i>
                     </a>
-                    <a class="cc-social btn btn-link" href="https://www.facebook.com/djyoyo">
+                    <!-- <a class="cc-social btn btn-link" href="https://www.facebook.com/djyoyo">
                       <i class="fab fa-facebook fa-3x" aria-hidden="true"></i>
-                    </a>
-                    <a class="cc-social btn btn-link" href="https://twitter.com/yoann_saunier">
+                    </a> -->
+                    <!-- <a class="cc-social btn btn-link" href="https://twitter.com/yoann_saunier">
                       <i class="fab fa-twitter fa-3x" aria-hidden="true"></i>
-                    </a>
+                    </a> -->
                   </div>
                 </div>
               </div>
