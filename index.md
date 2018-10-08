@@ -133,14 +133,29 @@ title: Yoann Saunier | Full Stack Web Developer
             <div class="col-lg-4">
               <div class="h4 mt-0 title">Awesome Suits</div>
               <p><a href="http://awesome-suits.herokuapp.com">Awesome Suits</a> was created for a coding challenge at <a href="https://www.lewagon.com">Le Wagon</a>. A clone of AirBnB that operates a suits renting service between individuals.</p>
-              </div>
-              <div class="col-lg-8">
-                <ul id="imageGallery">
-                  <li><a href="assets/images/awesome-suits-home.jpg"><img src="assets/images/awesome-suits-home.jpg"></a></li>
-                  <li><a href="assets/images/awesome-suits-index.jpg"><img src="assets/images/awesome-suits-index.jpg"></a></li>
-                  <li><a href="assets/images/awesome-suits-owner.jpg"><img src="assets/images/awesome-suits-owner.jpg"></a></li>
-                  <li><a href="assets/images/awesome-suits-rentings.jpg"><img src="assets/images/awesome-suits-rentings.jpg"></a></li>
-                </ul>
+            </div>
+            <div class="col-lg-8">
+              <ul id="imageGallery">
+                <li><a href="assets/images/awesome-suits-home.jpg"><img src="assets/images/awesome-suits-home.jpg"></a></li>
+                <li><a href="assets/images/awesome-suits-index.jpg"><img src="assets/images/awesome-suits-index.jpg"></a></li>
+                <li><a href="assets/images/awesome-suits-owner.jpg"><img src="assets/images/awesome-suits-owner.jpg"></a></li>
+                <li><a href="assets/images/awesome-suits-rentings.jpg"><img src="assets/images/awesome-suits-rentings.jpg"></a></li>
+              </ul>
+            </div>
+          </div>
+
+          <hr>
+
+          <div class="row">
+            <div class="col-lg-4">
+              <div class="h4 mt-0 title">Gmail Email Templates</div>
+              <p><a href="https://github.com/ynnsnr/gmail-email-templates">Gmail Email Templates</a> is a chrome extension for managing personal email templates (snippets) directly into Gmail with just a couple of clicks.</p>
+            </div>
+            <div class="col-lg-8">
+              <ul id="imageGallery">
+                <li><img src="assets/images/gif2.gif" width="250px"></li>
+                <li><img src="assets/images/gif3.gif" width="250px"></li>
+              </ul>
             </div>
           </div>
 
