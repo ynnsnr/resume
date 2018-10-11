@@ -90,7 +90,7 @@ title: Yoann Saunier | Full Stack Web Developer
       <div class="card" data-aos="fade-up" data-aos-offset="10">
         <div class="card-body">
           <div class="h4 mt-0 title">About</div>
-          <p>I'm a Junior Full Stack Web Developer with a strong Front-End sensitivity and an entrepreneurial mindset. I used to work as a music composer / sound engineer and I'm deeply interested in blending creativity and technology. I've just finished attending <a href="https://www.lewagon.com">Le Wagon</a>, a 9-week intensive coding bootcamp and I'm ready to translate my skills to the web development world.</p>
+          <p>I'm a Junior Full Stack Web Developer with a strong Front-End sensitivity and an entrepreneurial mindset. I used to work as a music composer / sound engineer and I'm deeply interested in blending creativity and technology. I've just finished attending <a href="https://www.lewagon.com" target="_blank">Le Wagon</a>, a 9-week intensive coding bootcamp and I'm ready to translate my skills to the web development world.</p>
           <p>You'd know me better by checking out my <a href="https://ynnsnr.github.io/music" target="_blank">music</a>.</p>
         </div>
       </div>
@@ -112,7 +112,7 @@ title: Yoann Saunier | Full Stack Web Developer
           <div class="row">
             <div class="col-lg-4">
               <div class="h4 mt-0 title">Treep</div>
-              <p><a href="http://treep.pw">Treep</a> is the final project I made with my team during <a href="https://www.lewagon.com">Le Wagon</a>. A visual decision system tool for travel agencies. By helping them create trips quickly and easily, and visualizing different possible itineraries, <a href="http://treep.pw">Treep</a> enhances both flexibility and communication with travelers.</p>
+              <p><a href="http://treep.pw" target="_blank">Treep</a> is the final project I made with my team during <a href="https://www.lewagon.com" target="_blank">Le Wagon</a>. A visual decision system tool for travel agencies. By helping them create trips quickly and easily, and visualizing different possible itineraries, <a href="http://treep.pw" target="_blank">Treep</a> enhances both flexibility and communication with travelers.</p>
             </div>
             <div class="col-lg-8">
               <!-- <ul id="imageGallery">
@@ -132,7 +132,7 @@ title: Yoann Saunier | Full Stack Web Developer
           <div class="row">
             <div class="col-lg-4">
               <div class="h4 mt-0 title">Awesome Suits</div>
-              <p><a href="http://awesome-suits.herokuapp.com">Awesome Suits</a> was created for a coding challenge at <a href="https://www.lewagon.com">Le Wagon</a>. A clone of AirBnB that operates a suits renting service between individuals.</p>
+              <p><a href="http://awesome-suits.herokuapp.com" target="_blank">Awesome Suits</a> was created for a coding challenge at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a>. A clone of AirBnB that operates a suits renting service between individuals.</p>
             </div>
             <div class="col-lg-8">
               <ul id="imageGallery">
@@ -149,12 +149,20 @@ title: Yoann Saunier | Full Stack Web Developer
           <div class="row">
             <div class="col-lg-4">
               <div class="h4 mt-0 title">Gmail Email Templates</div>
-              <p><a href="https://github.com/ynnsnr/gmail-email-templates">Gmail Email Templates</a> is a chrome extension for managing personal email templates (snippets) directly into Gmail with just a couple of clicks.</p>
+              <p><a href="https://github.com/ynnsnr/gmail-email-templates" target="_blank">Gmail Email Templates</a> is a chrome extension for managing personal email templates (snippets) directly into Gmail with just a couple of clicks.</p>
             </div>
             <div class="col-lg-8">
-              <ul id="imageGallery">
-                <li><img src="assets/images/gif2.gif" width="250px"></li>
-                <li><img src="assets/images/gif3.gif" width="250px"></li>
+              <ul id="gifs">
+                <li>
+                  <a href="https://github.com/ynnsnr/gmail-email-templates" target="_blank">
+                    <img src="assets/images/gif2.gif" width="250px">
+                  </a>
+                </li>
+                <li>
+                  <a href="https://github.com/ynnsnr/gmail-email-templates" target="_blank">
+                    <img src="assets/images/gif3.gif" width="250px">
+                  </a>
+                </li>
               </ul>
             </div>
           </div>

@@ -415,7 +415,7 @@ img {
   transform: scale(1.06, 1.06);
 }
 
-/* Education Style */
+// Education Style
 .cc-education .h5 {
   margin-bottom: 0;
 }
@@ -430,7 +430,7 @@ img {
   color: #fff;
 }
 
-/* Contact Information Style */
+// Contact Information Style
 .cc-contact-information .cc-contact {
   padding: 0 0 6% 20%;
 }
@@ -440,47 +440,56 @@ img {
   }
 }
 
-/* Footer */
-/* Social button style */
+// Footer
 .cc-social:hover i {
   color: #38A0C2;
 }
 
-/* Common Style */
 .section {
   padding-bottom: 0;
 }
 
-/* Skills */
 #skills {
   margin: 20px 0 0 15px;
-}
-#skills img {
-  height: 24px;
-  width: 24px;
+  img {
+    height: 24px;
+    width: 24px;
+  }
 }
 .skills-elements {
   margin-top: 10px;
   display: flex;
   align-items: center;
+  img {
+    margin-right: 5px;
+  }
 }
-.skills-elements img {
-  margin-right: 5px;
+
+ul#gifs {
+  padding: 0;
+  text-align: center;
+  li {
+    display: inline-block;
+    margin: 10px;
+    a img {
+      width: 250px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.24);
+    }
+  }
 }
 
 // jquery-gallery-lightbox-with-nav
 ul#imageGallery {
   padding: 0;
   text-align: center;
-}
-
-ul#imageGallery li {
-  display: inline-block;
-  margin: 10px;
-}
-
-ul#imageGallery li a img {
-  width: 250px;
+  li {
+    display: inline-block;
+    margin: 10px;
+    a img {
+      width: 250px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.24);
+    }
+  }
 }
 
 #overlay {
@@ -566,10 +575,6 @@ ul#imageGallery li a img {
 
 #overlay .holder .nav #close:hover {
   opacity: 1;
-}
-
-#imageGallery img {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.24);
 }
 
 .youtube-container {
