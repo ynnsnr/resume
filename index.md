@@ -11,16 +11,16 @@ title: Yoann Saunier | Full Stack Web Developer
       <div class="container">
         <div class="navbar-translate">
           <div class="navbar-brand">
-            <a class="btn btn-link" href="https://www.linkedin.com/in/yoann-saunier-536368151">
+            <a class="btn btn-link" target="_blank" href="https://www.linkedin.com/in/yoann-saunier-536368151">
               <i class="fab fa-linkedin"></i>
             </a>
-            <a class="btn btn-link" href="https://github.com/ynnsnr">
+            <a class="btn btn-link" target="_blank" href="https://github.com/ynnsnr">
               <i class="fab fa-github"></i>
             </a>
-            <!-- <a class="btn btn-link" href="https://www.facebook.com/djyoyo">
+            <!-- <a class="btn btn-link" target="_blank" href="https://www.facebook.com/djyoyo">
               <i class="fab fa-facebook"></i>
             </a> -->
-            <a class="btn btn-link" href="https://twitter.com/yoann_saunier">
+            <a class="btn btn-link" target="_blank" href="https://twitter.com/yoann_saunier">
               <i class="fab fa-twitter"></i>
             </a>
           </div>
