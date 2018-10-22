@@ -32,8 +32,7 @@
   padding: 11px 22px;
 }
 
-.btn.btn-link,
-.navbar .navbar-nav > a.btn.btn-link {
+.btn.btn-link, .navbar .navbar-nav > a.btn.btn-link {
   color: #888;
 }
 
@@ -112,10 +111,8 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Animations */
-.nav-link,
-.nav-item .nav-link,
-.navbar {
+// Animations
+.nav-link, .nav-item .nav-link, .navbar {
   transition: all 300ms ease 0s;
 }
 
@@ -194,42 +191,42 @@ img {
   min-height: 190px;
 }
 
-/*.footer {
-  padding: 24px 0;
-}
-.footer.footer-default {
-  background-color: #f2f2f2;
-}
-.footer nav {
-  display: inline-block;
-  float: left;
-}
-.footer ul {
-  margin-bottom: 0;
-  padding: 0;
-  list-style: none;
-}
-.footer ul li {
-  display: inline-block;
-}
-.footer ul li a {
-  color: inherit;
-  padding: 0.5rem;
-  font-size: 0.8571em;
-  text-transform: uppercase;
-  text-decoration: none;
-}
-.footer ul li a:hover {
-  text-decoration: none;
-}
-.footer .copyright {
-  font-size: 0.8571em;
-}
-.footer:after {
-  display: table;
-  clear: both;
-  content: " ";
-}*/
+// .footer {
+//   padding: 24px 0;
+// }
+// .footer.footer-default {
+//   background-color: #f2f2f2;
+// }
+// .footer nav {
+//   display: inline-block;
+//   float: left;
+// }
+// .footer ul {
+//   margin-bottom: 0;
+//   padding: 0;
+//   list-style: none;
+// }
+// .footer ul li {
+//   display: inline-block;
+// }
+// .footer ul li a {
+//   color: inherit;
+//   padding: 0.5rem;
+//   font-size: 0.8571em;
+//   text-transform: uppercase;
+//   text-decoration: none;
+// }
+// .footer ul li a:hover {
+//   text-decoration: none;
+// }
+// .footer .copyright {
+//   font-size: 0.8571em;
+// }
+// .footer:after {
+//   display: table;
+//   clear: both;
+//   content: " ";
+// }
 
 .section {
   padding: 70px 0;
@@ -239,48 +236,52 @@ img {
 .profile-page .page-header {
   min-height: 550px;
 }
+
 .profile-page .title {
   margin-top: 30px;
 }
 
 .page-header {
   position: relative;
+  footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  .page-header-image {
+    position: absolute;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  .container {
+    height: 100%;
+    z-index: 1;
+    text-align: center;
+    position: relative;
+  }
+  .container > .content-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #FFFFFF;
+  }
 }
-.page-header .page-header-image {
-  position: absolute;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-}
-.page-header footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-.page-header .container {
-  height: 100%;
-  z-index: 1;
-  text-align: center;
-  position: relative;
-}
-.page-header .container > .content-center {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: #FFFFFF;
-}
-.page-header.page-header-small {
+
+.page-header-small {
   height: 60vh;
 }
+
 .page-header:after, .page-header:before {
   position: absolute;
   width: 100%;
   height: 100%;
   content: "";
 }
+
 .page-header:before {
   background-color: rgba(0, 0, 0, 0.5);
 }
@@ -411,6 +412,7 @@ img {
   /*background: rgba(44, 44, 44, 0.2);*/
   background: linear-gradient(0deg, rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.3));
 }
+
 .page-header .btn {
   width: 140px;
 }
@@ -423,6 +425,7 @@ img {
   border: 15px solid transparent;
   transition: all .3s ease-out;
 }
+
 .cc-profile-image a:hover img {
   transform: scale(1.06, 1.06);
 }
@@ -430,10 +433,13 @@ img {
 // Education Style
 .cc-education .h5 {
   margin-bottom: 0;
+  font-size: 1.40em;
 }
+
 // .cc-education .bg-primary {
 //   max-width: 275px !important;
 // }
+
 .cc-education .cc-education-header {
   display: flex;
   flex-direction: column;
@@ -446,6 +452,7 @@ img {
 .cc-contact-information .cc-contact {
   padding: 0 0 6% 20%;
 }
+
 @media (max-width: 767px) {
   .cc-contact-information .cc-contact {
     padding: 0 0px 30px 0px;
@@ -462,12 +469,14 @@ img {
 }
 
 #skills {
-  margin: 20px 0 0 15px;
+  margin: 15px 0 5px 10px;
+  text-align: center;
   img {
     height: 24px;
     width: 24px;
   }
 }
+
 .skills-elements {
   margin-top: 10px;
   display: flex;

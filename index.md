@@ -180,14 +180,14 @@ title: Yoann Saunier | Full Stack Web Developer
         <div class="card-body">
 
           <div class="row" id="skills">
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3" style="padding-bottom: 15px">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4" style="padding-bottom: 15px">
               <h6>Back-End</h6>
               <div class="skills-elements"><img src="assets/images/ruby.png">Ruby</div>
               <div class="skills-elements"><img src="assets/images/rails.png">Ruby on Rails</div>
               <div class="skills-elements"><img src="assets/images/middleman.png">Middleman</div>
               <div class="skills-elements"><img src="assets/images/jekyll.png">Jekyll</div>
             </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3" style="padding-bottom: 15px">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4" style="padding-bottom: 15px">
               <h6>Front-End</h6>
               <div class="skills-elements"><img src="assets/images/html.png">HTML5</div>
               <div class="skills-elements"><img src="assets/images/css.png">CSS3 / SASS</div>
@@ -195,22 +195,19 @@ title: Yoann Saunier | Full Stack Web Developer
               <div class="skills-elements"><img src="assets/images/bootstrap.png">Bootstrap</div>
               <div class="skills-elements"><img src="assets/images/react.png">React</div>
             </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3" style="padding-bottom: 15px">
-              <h6>Database</h6>
-              <div class="skills-elements"><img src="assets/images/postgresql.png">PostGreSQL</div>
-            </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-3" style="padding-bottom: 15px">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4" style="padding-bottom: 15px">
               <h6>DevOps</h6>
               <div class="skills-elements"><img src="assets/images/git.png">Git</div>
               <div class="skills-elements"><img src="assets/images/github.svg">Github</div>
+              <div class="skills-elements"><img src="assets/images/postgresql.png">PostGreSQL</div>
               <div class="skills-elements"><img src="assets/images/heroku.png">Heroku</div>
             </div>
           </div>
-          <!-- <div class="text-center" style="opacity: 0.9;">
+          <div class="text-center" style="opacity: 0.9;">
             <a href="https://www.codewars.com/users/ynnsnr" target="_blank">
               <img src="https://www.codewars.com/users/ynnsnr/badges/micro">
             </a>
-          </div> -->
+          </div>
         </div>
       </div>
     </div>
@@ -250,7 +247,7 @@ title: Yoann Saunier | Full Stack Web Developer
             <div class="card-body">
               <div class="h5">Formation Supérieure aux Métiers du Son</div>
               <p class="category">Conservatory of Paris</p>
-              <p>The challenge of this original curriculum is to transmit to future professionals, high-level skills both musical and technical.</p>
+              <p>The challenge of this <a href="http://www.conservatoiredeparis.fr/disciplines/les-disciplines/les-disciplines-detail/discipline/formation-superieure-aux-metiers-du-son" target="_blank">original curriculum</a> is to transmit to future professionals, high-level skills both musical and technical.</p>
             </div>
           </div>
         </div>
@@ -268,7 +265,7 @@ title: Yoann Saunier | Full Stack Web Developer
             <div class="card-body">
               <div class="h5">Higher School Preparatory Classes: Ciné-Sup</div>
               <p class="category">Guist’hau high school, Nantes</p>
-              <p>Two-year intensive program for national competitive exams of schools of Cinema and Audiovisual: Fémis, Louis Lumière, INSAS, CNSMDP, ENSATT...</p>
+              <p><a href="https://guisthau.paysdelaloire.e-lyco.fr/le-superieur/cine-sup" target="_blank">Two-year intensive program</a> for national competitive exams of schools of Cinema and Audiovisual: Fémis, Louis Lumière, INSAS, CNSMDP, ENSATT...</p>
             </div>
           </div>
         </div>
