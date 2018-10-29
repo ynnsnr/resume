@@ -186,6 +186,7 @@ title: Yoann Saunier | Full Stack Web Developer
               <div class="skills-elements"><img src="assets/images/rails.png">Ruby on Rails</div>
               <div class="skills-elements"><img src="assets/images/middleman.png">Middleman</div>
               <div class="skills-elements"><img src="assets/images/jekyll.png">Jekyll</div>
+              <div class="skills-elements"><img src="assets/images/sinatra.png">Sinatra</div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4" style="padding-bottom: 15px">
               <h6>Front-End</h6>
