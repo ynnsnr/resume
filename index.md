@@ -148,7 +148,10 @@ title: Yoann Saunier | Full Stack Web Developer
 
           <div class="row">
             <div class="col-lg-4">
-              <div class="h4 mt-0 title">Gmail Email Templates</div>
+              <div class="h4 mt-0 title">
+                Gmail Email Templates
+                <img src="assets/images/react.png" height="36px" style="padding-bottom: 6px;">
+              </div>
               <p><a href="https://github.com/ynnsnr/gmail-email-templates" target="_blank">Gmail Email Templates</a> is a chrome extension for managing personal email templates (snippets) directly into Gmail with just a couple of clicks.</p>
             </div>
             <div class="col-lg-8">
@@ -181,20 +184,20 @@ title: Yoann Saunier | Full Stack Web Developer
 
           <div class="row" id="skills">
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4" style="padding-bottom: 15px">
-              <h6>Back-End</h6>
-              <div class="skills-elements"><img src="assets/images/ruby.png">Ruby</div>
-              <div class="skills-elements"><img src="assets/images/rails.png">Ruby on Rails</div>
-              <div class="skills-elements"><img src="assets/images/middleman.png">Middleman</div>
-              <div class="skills-elements"><img src="assets/images/jekyll.png">Jekyll</div>
-              <div class="skills-elements"><img src="assets/images/sinatra.png">Sinatra</div>
-            </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4" style="padding-bottom: 15px">
               <h6>Front-End</h6>
               <div class="skills-elements"><img src="assets/images/html.png">HTML5</div>
               <div class="skills-elements"><img src="assets/images/css.png">CSS3 / SASS</div>
               <div class="skills-elements"><img src="assets/images/javascript.png">Javascript / ES6</div>
               <div class="skills-elements"><img src="assets/images/bootstrap.png">Bootstrap</div>
               <div class="skills-elements"><img src="assets/images/react.png">React</div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4" style="padding-bottom: 15px">
+              <h6>Back-End</h6>
+              <div class="skills-elements"><img src="assets/images/ruby.png">Ruby</div>
+              <div class="skills-elements"><img src="assets/images/rails.png">Ruby on Rails</div>
+              <div class="skills-elements"><img src="assets/images/middleman.png">Middleman</div>
+              <div class="skills-elements"><img src="assets/images/jekyll.png">Jekyll</div>
+              <div class="skills-elements"><img src="assets/images/sinatra.png">Sinatra</div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4" style="padding-bottom: 15px">
               <h6>DevOps</h6>
