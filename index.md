@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Yoann Saunier | Full Stack Web Developer
+title: Yoann Saunier | Web Dev
 ---
 <header>
   <div class="sidebar-collapse">
@@ -97,7 +97,7 @@ title: Yoann Saunier | Full Stack Web Developer
     </div>
   </div>
 
-  <div class="section" id="experience" style="padding: 60px 0 0 0">
+  <div class="section pt-5" id="experience">
     <div class="container">
 
       <div class="row">
@@ -176,38 +176,75 @@ title: Yoann Saunier | Full Stack Web Developer
     </div>
   </div>
 
-  <div class="section" id="skill" style="padding: 55px 0 0 0">
+  <div class="section pt-5" id="skill">
     <div class="container">
       <div class="h4 text-center mb-4 title"><i class="fas fa-palette"></i> Skills</div>
       <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
         <div class="card-body">
 
           <div class="row" id="skills">
-            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4" style="padding-bottom: 15px">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4 mb-4">
               <h6>Front-End</h6>
-              <div class="skills-elements"><img src="assets/images/html.png">HTML5</div>
-              <div class="skills-elements"><img src="assets/images/css.png">CSS3 / SASS</div>
-              <div class="skills-elements"><img src="assets/images/javascript.png">Javascript / ES6</div>
-              <div class="skills-elements"><img src="assets/images/bootstrap.png">Bootstrap</div>
-              <div class="skills-elements"><img src="assets/images/react.png">React</div>
+              <div class="row">
+                <div class="col-6">
+                  <div class="skills-elements"><img src="assets/images/html.png">HTML5</div>
+                  <div class="skills-elements"><img src="assets/images/css.png">CSS3 / SASS</div>
+                  <div class="skills-elements"><img src="assets/images/javascript.png">Javascript / ES6</div>
+                </div>
+                <div class="col-6">
+                  <div class="skills-elements"><img src="assets/images/bootstrap.png">Bootstrap</div>
+                  <div class="skills-elements"><img src="assets/images/react.png">React</div>
+                  <div class="skills-elements"><img src="assets/images/vue.png">Vue.js</div>
+                </div>
+              </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4" style="padding-bottom: 15px">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4 mb-4">
               <h6>Back-End</h6>
-              <div class="skills-elements"><img src="assets/images/ruby.png">Ruby</div>
-              <div class="skills-elements"><img src="assets/images/rails.png">Ruby on Rails</div>
-              <div class="skills-elements"><img src="assets/images/middleman.png">Middleman</div>
-              <div class="skills-elements"><img src="assets/images/jekyll.png">Jekyll</div>
-              <div class="skills-elements"><img src="assets/images/sinatra.png">Sinatra</div>
+              <div class="row">
+                <div class="col-6">
+                  <div class="skills-elements">
+                    <img src="assets/images/ruby.png">Ruby
+                  </div>
+                  <div class="skills-elements">
+                    <img src="assets/images/rails.png">Rails
+                  </div>
+                  <div class="skills-elements">
+                    <img src="assets/images/sinatra.png">Sinatra
+                  </div>
+                </div>
+                <div class="col-6">
+                  <div class="skills-elements">
+                    <img src="assets/images/middleman.png">Middleman
+                  </div>
+                  <div class="skills-elements">
+                    <img src="assets/images/jekyll.png">Jekyll
+                  </div>
+                </div>
+              </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4" style="padding-bottom: 15px">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4 mb-4">
               <h6>DevOps</h6>
-              <div class="skills-elements"><img src="assets/images/git.png">Git</div>
-              <div class="skills-elements"><img src="assets/images/github.svg">Github</div>
-              <div class="skills-elements"><img src="assets/images/postgresql.png">PostGreSQL</div>
-              <div class="skills-elements"><img src="assets/images/heroku.png">Heroku</div>
+              <div class="row">
+                <div class="col-6">
+                  <div class="skills-elements">
+                    <img src="assets/images/heroku.png">Heroku
+                  </div>
+                  <div class="skills-elements">
+                    <img src="assets/images/github.svg">Github
+                  </div>
+                </div>
+                <div class="col-6">
+                  <div class="skills-elements">
+                    <img src="assets/images/postgresql.png">PostGreSQL
+                  </div>
+                  <div class="skills-elements">
+                    <img src="assets/images/git.png">Git
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="text-center" style="opacity: 0.9;">
+          <div class="text-center m-2 mt-3" style="opacity: 0.9;">
             <a href="https://www.codewars.com/users/ynnsnr" target="_blank">
               <img src="https://www.codewars.com/users/ynnsnr/badges/micro">
             </a>
@@ -217,7 +254,7 @@ title: Yoann Saunier | Full Stack Web Developer
     </div>
   </div>
 
-  <div class="section" id="education" style="padding: 55px">
+  <div class="section pt-5" id="education">
     <div class="container cc-education">
       <div class="h4 text-center mb-4 title"><i class="fas fa-graduation-cap"></i> Education</div>
 
@@ -278,7 +315,7 @@ title: Yoann Saunier | Full Stack Web Developer
     </div>
   </div>
 
-  <div class="section" id="contact" style="padding-top: 0">
+  <div class="section pt-5" id="contact">
     <div class="cc-contact-information">
       <div class="container">
         <div class="cc-contact">
@@ -295,9 +332,6 @@ title: Yoann Saunier | Full Stack Web Developer
                     <a class="cc-social btn btn-link" href="https://github.com/ynnsnr">
                       <i class="fab fa-github fa-3x" aria-hidden="true"></i>
                     </a>
-                    <!-- <a class="cc-social btn btn-link" href="https://www.facebook.com/djyoyo">
-                      <i class="fab fa-facebook fa-3x" aria-hidden="true"></i>
-                    </a> -->
                     <a class="cc-social btn btn-link" href="https://twitter.com/yoann_saunier">
                       <i class="fab fa-twitter fa-3x" aria-hidden="true"></i>
                     </a>
