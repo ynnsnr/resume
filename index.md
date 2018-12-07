@@ -90,7 +90,8 @@ title: Yoann Saunier | Web Dev
       <div class="card" data-aos="fade-up" data-aos-offset="10">
         <div class="card-body">
           <div class="h4 mt-0 title">About me</div>
-          <p>I'm a Full Stack Web Developer with an entrepreneurial mindset and a strong Front-End sensitivity, including UI/UX. I used to work as a audio engineer & a music composer and I'm deeply interested in blending creativity and technology. I've finished attending <a href="https://www.lewagon.com" target="_blank">Le Wagon</a> Paris, a 9-week intensive coding bootcamp and I'm ready to translate my skills to the web development world.</p>
+          <p>I'm a Full Stack Web Developer with an entrepreneurial mindset and a strong Front-End sensitivity. I used to work as an audio engineer / music composer and I'm deeply interested in blending creativity and technology. I love tech, traveling, humour, arts and surfing. I'm currently working as a Teaching Assistant at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a> in Paris, Casablanca & Berlin.
+          </p>
           <p>You'd know me better by also checking out my <a href="https://ynnsnr.github.io/music" target="_blank">music</a>.</p>
         </div>
       </div>
