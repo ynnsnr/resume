@@ -131,17 +131,35 @@ title: Yoann Saunier | Web Dev
           <hr>
 
           <div class="row">
-            <div class="col-lg-4">
-              <div class="h4 mt-0 title">Awesome Suits</div>
-              <p><a href="http://awesome-suits.herokuapp.com" target="_blank">Awesome Suits</a> was created for a coding challenge at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a>. A clone of AirBnB that operates a suits renting service between individuals.</p>
+            <div class="col-lg-5">
+              <div class="h4 mt-0 title">
+                CinePursuit
+              </div>
+              <p>Jury prize for the <a href="https://lesarcs-filmfest.com/fr/professionnels/hackathon-du-cinema" target="_blank">Hackathon du Cinema</a> with Le Wagon team, in collaboration with <a href="https://github.com/db0sch" target="_blank">Dimitri Bosch</a>, <a href="https://github.com/juliends" target="_blank">Julien Da Silva</a> and <a href="https://github.com/grmnlrt" target="_blank">Germain Loret</a>.</p>
             </div>
-            <div class="col-lg-8">
-              <ul id="imageGallery">
-                <li><a href="assets/images/awesome-suits-home.jpg"><img src="assets/images/awesome-suits-home.jpg"></a></li>
-                <li><a href="assets/images/awesome-suits-index.jpg"><img src="assets/images/awesome-suits-index.jpg"></a></li>
-                <li><a href="assets/images/awesome-suits-owner.jpg"><img src="assets/images/awesome-suits-owner.jpg"></a></li>
-                <li><a href="assets/images/awesome-suits-rentings.jpg"><img src="assets/images/awesome-suits-rentings.jpg"></a></li>
-              </ul>
+            <div class="col-lg-6">
+              <div class="row text-center">
+                <div class="col-6 col-sm-3 mt-2 mb-3">
+                  <a href="http://cinepursuit.com" target="_blank">
+                    <img src="assets/images/cinepursuit-prompt.png" height="200px">
+                  </a>
+                </div>
+                <div class="col-6 col-sm-3 mt-2 mb-3">
+                  <a href="http://cinepursuit.com" target="_blank">
+                    <img src="assets/images/cinepursuit-ready.png" height="200px">
+                  </a>
+                </div>
+                <div class="col-6 col-sm-3 mt-2 mb-3">
+                  <a href="http://cinepursuit.com" target="_blank">
+                    <img src="assets/images/cinepursuit-quiz.png" height="200px">
+                  </a>
+                </div>
+                <div class="col-6 col-sm-3 mt-2 mb-3">
+                  <a href="http://cinepursuit.com" target="_blank">
+                    <img src="assets/images/cinepursuit-results.png" height="200px">
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
 
@@ -167,6 +185,23 @@ title: Yoann Saunier | Web Dev
                     <img src="assets/images/gif3.gif" width="250px">
                   </a>
                 </li>
+              </ul>
+            </div>
+          </div>
+
+          <hr>
+
+          <div class="row">
+            <div class="col-lg-4">
+              <div class="h4 mt-0 title">Awesome Suits</div>
+              <p><a href="http://awesome-suits.herokuapp.com" target="_blank">Awesome Suits</a> was created for a coding challenge at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a>. A clone of AirBnB that operates a suits renting service between individuals.</p>
+            </div>
+            <div class="col-lg-8">
+              <ul id="imageGallery">
+                <li><a href="assets/images/awesome-suits-home.jpg"><img src="assets/images/awesome-suits-home.jpg"></a></li>
+                <li><a href="assets/images/awesome-suits-index.jpg"><img src="assets/images/awesome-suits-index.jpg"></a></li>
+                <li><a href="assets/images/awesome-suits-owner.jpg"><img src="assets/images/awesome-suits-owner.jpg"></a></li>
+                <li><a href="assets/images/awesome-suits-rentings.jpg"><img src="assets/images/awesome-suits-rentings.jpg"></a></li>
               </ul>
             </div>
           </div>
