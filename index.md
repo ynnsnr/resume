@@ -75,8 +75,10 @@ title: Yoann Saunier | Web Dev
             </div>
             <div class="h2 title">Yoann Saunier</div>
             <p class="category text-white">Full Stack Web Developer</p>
-            <a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Contact</a>
-            <a class="btn btn-primary" href="assets/pdf/resume.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" target="_blank">Download CV</a>
+            <div>
+              <a class="btn btn-primary m-1 smooth-scroll" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Contact</a>
+              <a class="btn btn-primary m-1" href="assets/pdf/resume-yoann-saunier.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" target="_blank">Download CV</a>
+            </div>
           </div>
         </div>
       </div>
@@ -243,12 +245,12 @@ title: Yoann Saunier | Web Dev
 
           <div class="row" id="skills">
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4 mb-4">
-              <h6>Front-End</h6>
+              <h6 class="mt-1 mb-3">Front-End</h6>
               <div class="row">
                 <div class="col-6">
                   <div class="skills-elements"><img src="assets/images/html.png">HTML5</div>
-                  <div class="skills-elements"><img src="assets/images/css.png">CSS3 / SASS</div>
-                  <div class="skills-elements"><img src="assets/images/javascript.png">Javascript / ES6</div>
+                  <div class="skills-elements"><img src="assets/images/css.png">CSS / SASS</div>
+                  <div class="skills-elements"><img src="assets/images/javascript.png">JS / ES6</div>
                 </div>
                 <div class="col-6">
                   <div class="skills-elements"><img src="assets/images/bootstrap.png">Bootstrap</div>
@@ -258,7 +260,7 @@ title: Yoann Saunier | Web Dev
               </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4 mb-4">
-              <h6>Back-End</h6>
+              <h6 class="mt-1 mb-3">Back-End</h6>
               <div class="row">
                 <div class="col-6">
                   <div class="skills-elements">
@@ -285,7 +287,7 @@ title: Yoann Saunier | Web Dev
               </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4 mb-4">
-              <h6>DevOps</h6>
+              <h6 class="mt-1 mb-3">DevOps</h6>
               <div class="row">
                 <div class="col-6">
                   <div class="skills-elements">

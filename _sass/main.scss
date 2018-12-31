@@ -443,7 +443,6 @@ img {
 }
 
 #skills {
-  margin: 15px 0 5px 15px;
   text-align: center;
   img {
     height: 24px;
@@ -453,6 +452,7 @@ img {
 
 .skills-elements {
   margin-top: 10px;
+  padding-bottom: 1px;
   display: flex;
   align-items: center;
   img {
