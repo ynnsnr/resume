@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: Yoann Saunier | Web Dev
 ---
@@ -17,9 +14,6 @@ title: Yoann Saunier | Web Dev
             <a class="btn btn-link" target="_blank" href="https://github.com/ynnsnr">
               <i class="fab fa-github"></i>
             </a>
-            <!-- <a class="btn btn-link" target="_blank" href="https://www.facebook.com/djyoyo">
-              <i class="fab fa-facebook"></i>
-            </a> -->
             <a class="btn btn-link" target="_blank" href="https://twitter.com/yoann_saunier">
               <i class="fab fa-twitter"></i>
             </a>
@@ -65,20 +59,24 @@ title: Yoann Saunier | Web Dev
   </div>
 </header>
 
-
 <div class="page-content">
 
   <div class="profile-page">
     <div class="wrapper">
       <div class="page-header page-header-small" filter-color="blue">
-        <div class="page-header-image" data-parallax="true" style="background-image: url('assets/images/banner.jpg');"></div>
+        <div class="page-header-image" data-parallax="true" style="background-image: url('assets/images/banner.jpg');">
+        </div>
         <div class="container">
           <div class="content-center">
-            <div class="cc-profile-image"><a href="#"><img src="assets/images/yoann.jpg" alt="Image"/></a></div>
+            <div class="cc-profile-image">
+              <a href="/">
+                <img src="assets/images/yoann.jpg" alt="Avatar">
+              </a>
+            </div>
             <div class="h2 title">Yoann Saunier</div>
             <p class="category text-white">Full Stack Web Developer</p>
             <a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Contact</a>
-            <!-- <a class="btn btn-primary" href="#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a> -->
+            <a class="btn btn-primary" href="assets/pdf/resume.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" target="_blank">Download CV</a>
           </div>
         </div>
       </div>
@@ -90,9 +88,12 @@ title: Yoann Saunier | Web Dev
       <div class="card" data-aos="fade-up" data-aos-offset="10">
         <div class="card-body">
           <div class="h4 mt-0 title">About me</div>
-          <p>I'm a Full Stack Web Developer with an entrepreneurial mindset and a strong Front-End sensitivity. I used to work as an audio engineer / music composer and I'm deeply interested in blending creativity and technology. I love tech, traveling, humour, arts and surfing. I'm currently working as a Teaching Assistant at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a> in Paris, Casablanca & Berlin.
+          <p>
+            I'm a Full Stack Web Developer with an entrepreneurial mindset and a strong Front-End sensitivity. I used to work as an audio engineer / music composer and I'm deeply interested in blending creativity and technology. I love tech, traveling, humour, arts and surfing. I'm currently working as a Teaching Assistant at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a> in Paris, Casablanca & Berlin.
           </p>
-          <p>You'd know me better by also checking out my <a href="https://ynnsnr.github.io/music" target="_blank">music</a>.</p>
+          <p>
+            You'd know me better by also checking out my <a href="https://ynnsnr.github.io/music" target="_blank">music</a>.
+          </p>
         </div>
       </div>
     </div>
@@ -103,7 +104,9 @@ title: Yoann Saunier | Web Dev
 
       <div class="row">
         <div class="col-md-6 ml-auto mr-auto">
-          <div class="h4 text-center mb-4 title"><i class="fas fa-suitcase"></i> Experience</div>
+          <div class="h4 text-center mb-4 title" data-aos="fade-in">
+            <i class="fas fa-suitcase"></i> Experience
+          </div>
         </div>
       </div>
 
@@ -113,7 +116,9 @@ title: Yoann Saunier | Web Dev
           <div class="row">
             <div class="col-lg-4">
               <div class="h4 mt-0 title">Treep</div>
-              <p><a href="http://treep.pw" target="_blank">Treep</a> is the final project I made with my team during <a href="https://www.lewagon.com" target="_blank">Le Wagon</a>. A visual decision system tool for travel agencies. By helping them create trips quickly and easily, and visualizing different possible itineraries, <a href="http://treep.pw" target="_blank">Treep</a> enhances both flexibility and communication with travelers.</p>
+              <p>
+                <a href="http://treep.pw" target="_blank">Treep</a> is the final project I made with my team during <a href="https://www.lewagon.com" target="_blank">Le Wagon</a>. A visual decision system tool for travel agencies. By helping them create trips quickly and easily, and visualizing different possible itineraries, <a href="http://treep.pw" target="_blank">Treep</a> enhances both flexibility and communication with travelers.
+              </p>
             </div>
             <div class="col-lg-8">
               <!-- <ul id="imageGallery">
@@ -198,10 +203,26 @@ title: Yoann Saunier | Web Dev
             </div>
             <div class="col-lg-8">
               <ul id="imageGallery">
-                <li><a href="assets/images/awesome-suits-home.jpg"><img src="assets/images/awesome-suits-home.jpg"></a></li>
-                <li><a href="assets/images/awesome-suits-index.jpg"><img src="assets/images/awesome-suits-index.jpg"></a></li>
-                <li><a href="assets/images/awesome-suits-owner.jpg"><img src="assets/images/awesome-suits-owner.jpg"></a></li>
-                <li><a href="assets/images/awesome-suits-rentings.jpg"><img src="assets/images/awesome-suits-rentings.jpg"></a></li>
+                <li>
+                  <a href="assets/images/awesome-suits-home.jpg">
+                    <img src="assets/images/awesome-suits-home.jpg">
+                  </a>
+                </li>
+                <li>
+                  <a href="assets/images/awesome-suits-index.jpg">
+                    <img src="assets/images/awesome-suits-index.jpg">
+                  </a>
+                </li>
+                <li>
+                  <a href="assets/images/awesome-suits-owner.jpg">
+                    <img src="assets/images/awesome-suits-owner.jpg">
+                  </a>
+                </li>
+                <li>
+                  <a href="assets/images/awesome-suits-rentings.jpg">
+                    <img src="assets/images/awesome-suits-rentings.jpg">
+                  </a>
+                </li>
               </ul>
             </div>
           </div>
@@ -214,7 +235,9 @@ title: Yoann Saunier | Web Dev
 
   <div class="section pt-5" id="skill">
     <div class="container">
-      <div class="h4 text-center mb-4 title"><i class="fas fa-palette"></i> Skills</div>
+      <div class="h4 text-center mb-4 title" data-aos="fade-in">
+        <i class="fas fa-palette"></i> Skills
+      </div>
       <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
         <div class="card-body">
 
@@ -245,7 +268,7 @@ title: Yoann Saunier | Web Dev
                     <img src="assets/images/rails.png">Rails
                   </div>
                   <div class="skills-elements">
-                    <img src="assets/images/sinatra.png">Sinatra
+                    <img src="assets/images/webpack.png">Webpack
                   </div>
                 </div>
                 <div class="col-6">
@@ -254,6 +277,9 @@ title: Yoann Saunier | Web Dev
                   </div>
                   <div class="skills-elements">
                     <img src="assets/images/jekyll.png">Jekyll
+                  </div>
+                  <div class="skills-elements">
+                    <img src="assets/images/sinatra.png">Sinatra
                   </div>
                 </div>
               </div>
@@ -280,11 +306,11 @@ title: Yoann Saunier | Web Dev
               </div>
             </div>
           </div>
-          <div class="text-center m-2 mt-3" style="opacity: 0.9;">
+          <!-- <div class="text-center m-2 mt-3" style="opacity: 0.9;">
             <a href="https://www.codewars.com/users/ynnsnr" target="_blank">
               <img src="https://www.codewars.com/users/ynnsnr/badges/micro">
             </a>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -292,10 +318,12 @@ title: Yoann Saunier | Web Dev
 
   <div class="section pt-5" id="education">
     <div class="container cc-education">
-      <div class="h4 text-center mb-4 title"><i class="fas fa-graduation-cap"></i> Education</div>
+      <div class="h4 text-center mb-4 title" data-aos="fade-in">
+        <i class="fas fa-graduation-cap"></i> Education
+      </div>
 
       <div class="card">
-        <div class="row" style="margin: 0 !important">
+        <div class="row m-0">
           <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
             <div class="card-body cc-education-header">
               <p>Summer 2018</p>
@@ -313,7 +341,7 @@ title: Yoann Saunier | Web Dev
       </div>
 
       <div class="card">
-        <div class="row" style="margin: 0 !important">
+        <div class="row m-0">
           <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
             <div class="card-body cc-education-header">
               <p>2010 - 2014</p>
@@ -331,7 +359,7 @@ title: Yoann Saunier | Web Dev
       </div>
 
       <div class="card">
-        <div class="row" style="margin: 0 !important">
+        <div class="row m-0">
           <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
             <div class="card-body cc-education-header">
               <p>2008 - 2010</p>
@@ -340,9 +368,13 @@ title: Yoann Saunier | Web Dev
           </div>
           <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
             <div class="card-body">
-              <div class="h5">Higher School Preparatory Classes: Ciné-Sup</div>
+              <div class="h5">
+                Higher School Preparatory Classes: Ciné-Sup
+              </div>
               <p class="category">Guist’hau high school, Nantes</p>
-              <p><a href="https://guisthau.paysdelaloire.e-lyco.fr/le-superieur/cine-sup" target="_blank">Two-year intensive program</a> for national competitive exams of schools of Cinema and Audiovisual: Fémis, Louis Lumière, INSAS, CNSMDP, ENSATT...</p>
+              <p>
+                <a href="https://guisthau.paysdelaloire.e-lyco.fr/le-superieur/cine-sup" target="_blank">Two-year intensive program</a> for national competitive exams of schools of Cinema and Audiovisual: Fémis, Louis Lumière, INSAS, CNSMDP, ENSATT...
+              </p>
             </div>
           </div>
         </div>
@@ -352,27 +384,23 @@ title: Yoann Saunier | Web Dev
   </div>
 
   <div class="section pt-5" id="contact">
-    <div class="cc-contact-information">
-      <div class="container">
-        <div class="cc-contact">
-          <div class="row">
-            <div class="col-md-9">
-              <div class="card mb-0" data-aos="zoom-in">
-                <div class="h4 text-center title">Contact</div>
-                <div class="card-body text-center" style="margin-bottom: -30px !important;">
-                  <a href="mailto:yoann@saunier.me">yoann@saunier.me</a>
-                  <div style="padding-top: 30px;">
-                    <a class="cc-social btn btn-link" href="https://www.linkedin.com/in/yoann-saunier-536368151">
-                      <i class="fab fa-linkedin fa-3x" aria-hidden="true"></i>
-                    </a>
-                    <a class="cc-social btn btn-link" href="https://github.com/ynnsnr">
-                      <i class="fab fa-github fa-3x" aria-hidden="true"></i>
-                    </a>
-                    <a class="cc-social btn btn-link" href="https://twitter.com/yoann_saunier">
-                      <i class="fab fa-twitter fa-3x" aria-hidden="true"></i>
-                    </a>
-                  </div>
-                </div>
+    <div class="container cc-contact-information">
+      <div class="row cc-contact">
+        <div class="col-md-9">
+          <div class="card text-center" data-aos="fade-in">
+            <div class="h4 title mb-2">Contact</div>
+            <div class="card-body">
+              <a href="mailto:yoann@saunier.me">yoann@saunier.me</a>
+              <div class="pt-4">
+                <a class="cc-social btn btn-link" target="_blank" href="https://www.linkedin.com/in/yoann-saunier-536368151" >
+                  <i class="fab fa-linkedin fa-3x"></i>
+                </a>
+                <a class="cc-social btn btn-link" target="_blank" href="https://github.com/ynnsnr">
+                  <i class="fab fa-github fa-3x"></i>
+                </a>
+                <a class="cc-social btn btn-link" target="_blank" href="https://twitter.com/yoann_saunier">
+                  <i class="fab fa-twitter fa-3x"></i>
+                </a>
               </div>
             </div>
           </div>
@@ -382,5 +410,3 @@ title: Yoann Saunier | Web Dev
   </div>
 
 </div>
-
-<script src="assets/js/application.min.js"></script>
