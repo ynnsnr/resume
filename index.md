@@ -41,16 +41,16 @@ title: Yoann Saunier | Web Dev
         <div class="navbar-collapse justify-content-end">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link smooth-scroll" href="#experience">Experience</a>
+              <a class="nav-link smooth-scroll waves-effect waves-light" href="#experience">Experience</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link smooth-scroll" href="#skill">Skills</a>
+              <a class="nav-link smooth-scroll waves-effect waves-light" href="#skill">Skills</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link smooth-scroll" href="#education">Education</a>
+              <a class="nav-link smooth-scroll waves-effect waves-light" href="#education">Education</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link smooth-scroll" href="#contact">Contact</a>
+              <a class="nav-link smooth-scroll waves-effect waves-light" href="#contact">Contact</a>
             </li>
           </ul>
         </div>
@@ -76,8 +76,8 @@ title: Yoann Saunier | Web Dev
             <div class="h2 title">Yoann Saunier</div>
             <p class="category text-white">Full Stack Web Developer</p>
             <div>
-              <a class="btn btn-primary m-1 smooth-scroll" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Contact</a>
-              <a class="btn btn-primary m-1" href="assets/pdf/resume-yoann-saunier.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" target="_blank">Download CV</a>
+              <a class="btn btn-primary waves-effect waves-light m-1 smooth-scroll" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Contact</a>
+              <a class="btn btn-primary waves-effect waves-light m-1" href="assets/pdf/resume-yoann-saunier.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" target="_blank">Download CV</a>
             </div>
           </div>
         </div>
@@ -243,8 +243,8 @@ title: Yoann Saunier | Web Dev
       <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
         <div class="card-body">
 
-          <div class="row" id="skills">
-            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4 mb-4">
+          <div class="row justify-content-center" id="skills">
+            <div class="col-lg-4 col-sm-6 mb-4">
               <h6 class="mt-1 mb-3">Front-End</h6>
               <div class="row">
                 <div class="col-6">
@@ -259,7 +259,7 @@ title: Yoann Saunier | Web Dev
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4 mb-4">
+            <div class="col-lg-4 col-sm-6 mb-4">
               <h6 class="mt-1 mb-3">Back-End</h6>
               <div class="row">
                 <div class="col-6">
@@ -286,7 +286,7 @@ title: Yoann Saunier | Web Dev
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-4 mb-4">
+            <div class="col-lg-4 col-sm-6 mb-4">
               <h6 class="mt-1 mb-3">DevOps</h6>
               <div class="row">
                 <div class="col-6">

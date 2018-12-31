@@ -1,9 +1,9 @@
 import $ from 'jquery';
 import 'bootstrap';
 import AOS from 'aos';
-// import 'gallery';
-
 import './now-ui-kit';
+import './waves';
+// import 'gallery';
 
 $(document).ready(function() {
   AOS.init( {
@@ -139,4 +139,18 @@ $('#prev').click(function() {
   } else if (loop == 1){
     $('#imageGallery li').last().find('img').trigger('click');
   }
+});
+
+// Back to top
+$(window).scroll(() => {
+  if ($(window).scrollTop() > 600) {
+    $('button.back-to-top').addClass('show');
+  } else {
+    $('button.back-to-top').removeClass('show');
+  }
+});
+
+$('button.back-to-top').click(() => {
+  $('html, body').animate({ scrollTop: 0 }, 800);
+  return false;
 });
