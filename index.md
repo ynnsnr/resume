@@ -116,33 +116,14 @@ title: Yoann Saunier | Web Dev
         <div class="card-body">
 
           <div class="row">
-            <div class="col-lg-4">
-              <div class="h4 mt-0 title">Treep</div>
-              <p>
-                <a href="http://treep.pw" target="_blank">Treep</a> is the final project I made with my team during <a href="https://www.lewagon.com" target="_blank">Le Wagon</a>. A visual decision system tool for travel agencies. By helping them create trips quickly and easily, and visualizing different possible itineraries, <a href="http://treep.pw" target="_blank">Treep</a> enhances both flexibility and communication with travelers.
-              </p>
-            </div>
-            <div class="col-lg-8">
-              <!-- <ul id="imageGallery">
-                <li><a href="assets/images/treep-home.jpg"><img src="assets/images/treep-home.jpg"></a></li>
-                <li><a href="assets/images/treep-index.jpg"><img src="assets/images/treep-index.jpg"></a></li>
-                <li><a href="assets/images/treep-show.jpg"><img src="assets/images/treep-show.jpg"></a></li>
-                <li><a href="assets/images/treep-preview.jpg"><img src="assets/images/treep-preview.jpg"></a></li>
-              </ul> -->
-              <div class="youtube-container">
-                <div id="video"></div>
-              </div>
-            </div>
-          </div>
-
-          <hr>
-
-          <div class="row">
             <div class="col-lg-5">
               <div class="h4 mt-0 title">
                 CinePursuit
               </div>
               <p>Jury prize for the <a href="https://lesarcs-filmfest.com/fr/professionnels/hackathon-du-cinema" target="_blank">Hackathon du Cinema</a> with Le Wagon team, in collaboration with <a href="https://github.com/db0sch" target="_blank">Dimitri Bosch</a>, <a href="https://github.com/juliends" target="_blank">Julien Da Silva</a> and <a href="https://github.com/grmnlrt" target="_blank">Germain Loret</a>.</p>
+              <p>
+                <a href="http://cinepursuit.com" target="_blank">CinePursuit</a> is a quiz application to help cinema owners and distributors to retain their audience.
+              </p>
             </div>
             <div class="col-lg-6">
               <div class="row text-center">
@@ -193,6 +174,28 @@ title: Yoann Saunier | Web Dev
                   </a>
                 </li>
               </ul>
+            </div>
+          </div>
+
+          <hr>
+
+          <div class="row">
+            <div class="col-lg-4">
+              <div class="h4 mt-0 title">Treep</div>
+              <p>
+                <a href="http://treep.pw" target="_blank">Treep</a> is the final project I made with my team during <a href="https://www.lewagon.com" target="_blank">Le Wagon</a>. A visual decision system tool for travel agencies. By helping them create trips quickly and easily, and visualizing different possible itineraries, <a href="http://treep.pw" target="_blank">Treep</a> enhances both flexibility and communication with travelers.
+              </p>
+            </div>
+            <div class="col-lg-8">
+              <!-- <ul id="imageGallery">
+                <li><a href="assets/images/treep-home.jpg"><img src="assets/images/treep-home.jpg"></a></li>
+                <li><a href="assets/images/treep-index.jpg"><img src="assets/images/treep-index.jpg"></a></li>
+                <li><a href="assets/images/treep-show.jpg"><img src="assets/images/treep-show.jpg"></a></li>
+                <li><a href="assets/images/treep-preview.jpg"><img src="assets/images/treep-preview.jpg"></a></li>
+              </ul> -->
+              <div class="youtube-container">
+                <div id="video"></div>
+              </div>
             </div>
           </div>
 
