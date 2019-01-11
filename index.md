@@ -122,7 +122,7 @@ title: Yoann Saunier | Web Dev
               </div>
               <p>Jury prize for the <a href="https://lesarcs-filmfest.com/fr/professionnels/hackathon-du-cinema" target="_blank">Hackathon du Cinema</a> with Le Wagon team, in collaboration with <a href="https://github.com/db0sch" target="_blank">Dimitri Bosch</a>, <a href="https://github.com/juliends" target="_blank">Julien Da Silva</a> and <a href="https://github.com/grmnlrt" target="_blank">Germain Loret</a>.</p>
               <p>
-                <a href="http://cinepursuit.com" target="_blank">CinePursuit</a> is a quiz application to help cinema owners and distributors to retain their audience.
+                <a href="https://cinepursuit.com" target="_blank">CinePursuit</a> is a quiz application to help cinema owners and distributors to retain their audience.
               </p>
             </div>
             <div class="col-lg-6">
@@ -339,7 +339,7 @@ title: Yoann Saunier | Web Dev
             <div class="card-body">
               <div class="h5">Web Development</div>
               <p class="category">Le Wagon Paris (Batch # 177)</p>
-              <p>9-week intensive coding bootcamp learning HTML, CSS, Boostrap, Javascript, jQuery, SQL, git, GitHub, Heroku, and Ruby on Rails. Designed, Implemented and Shipped to production a <a href="http://awesome-suits.herokuapp.com">clone of AirBnB</a> and a Rails prototype of <a href="http://treep.pw">Treep</a></p>
+              <p>9-week intensive coding bootcamp learning HTML, CSS, Boostrap, Javascript, jQuery, SQL, git, GitHub, Heroku, and Ruby on Rails. Designed, Implemented and Shipped to production a <a href="http://awesome-suits.herokuapp.com" target="_blank">clone of AirBnB</a> and a Rails prototype of <a href="http://treep.pw" target="_blank">Treep</a></p>
             </div>
           </div>
         </div>
