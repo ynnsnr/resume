@@ -91,7 +91,7 @@ title: Yoann Saunier | Web Dev
         <div class="card-body">
           <div class="h4 mt-0 title">About me</div>
           <p>
-            I'm a Full Stack Web Developer with an entrepreneurial mindset and a strong Front-End sensitivity. Now working as a Front-End Developer at <a href="https://www.manatal.com/" target="_blank">Manatal</a>, a recruiting software company using Vue.js, Vuetify, Chrome Extensions, Django REST, I was formerly Teaching Assistant at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a> in Paris, Casablanca, Berlin & Shanghai. I used to work as an audio engineer / music composer and I'm deeply interested in blending technology, creativity and arts. Curious mindset. Love tech, traveling, humour, arts and surfing.
+            I'm a Full Stack Web Developer with an entrepreneurial mindset and a strong Front-End sensitivity. Now working as a Front-End Developer at <a href="https://www.manatal.com" target="_blank">Manatal</a>, a recruiting software company using Vue.js, Vuetify, Chrome Extensions and Django REST, I was formerly a Teaching Assistant at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a> in Paris, Casablanca, Berlin & Shanghai. I used to work as an audio engineer / music composer and I'm deeply interested in blending technology, creativity and arts. With a curious mindset, I love tech, traveling, humour, arts and surfing.
           </p>
           <p>
             You'd know me better by also checking out my <a href="https://ynnsnr.github.io/music" target="_blank">music</a>.
@@ -107,7 +107,7 @@ title: Yoann Saunier | Web Dev
       <div class="row">
         <div class="col-md-6 ml-auto mr-auto">
           <div class="h4 text-center mb-4 title" data-aos="fade-in">
-            <i class="fas fa-suitcase"></i> Experience
+            <i class="fas fa-suitcase"></i> Projects
           </div>
         </div>
       </div>
@@ -290,7 +290,7 @@ title: Yoann Saunier | Web Dev
               </div>
             </div>
             <div class="col-lg-4 col-sm-6 mb-4">
-              <h6 class="mt-1 mb-3">DevOps</h6>
+              <h6 class="mt-1 mb-3">DevOps / Misc</h6>
               <div class="row">
                 <div class="col-6">
                   <div class="skills-elements">
@@ -299,6 +299,9 @@ title: Yoann Saunier | Web Dev
                   <div class="skills-elements">
                     <img src="assets/images/github.svg">Github
                   </div>
+                  <div class="skills-elements">
+                    <img src="assets/images/chrome.ico">Extensions
+                  </div>
                 </div>
                 <div class="col-6">
                   <div class="skills-elements">
@@ -306,6 +309,9 @@ title: Yoann Saunier | Web Dev
                   </div>
                   <div class="skills-elements">
                     <img src="assets/images/git.png">Git
+                  </div>
+                  <div class="skills-elements">
+                    <img src="assets/images/wechat.png">WeChat MP
                   </div>
                 </div>
               </div>
