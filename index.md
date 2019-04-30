@@ -91,7 +91,7 @@ title: Yoann Saunier | Web Dev
         <div class="card-body">
           <div class="h4 mt-0 title">About me</div>
           <p>
-            I'm a Full Stack Web Developer with an entrepreneurial mindset and a strong Front-End sensitivity. I used to work as an audio engineer / music composer and I'm deeply interested in blending creativity and technology. I love tech, traveling, humour, arts and surfing. I'm currently working as a Teaching Assistant at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a> in Paris, Casablanca & Berlin.
+            I'm a Full Stack Web Developer with an entrepreneurial mindset and a strong Front-End sensitivity. Now working as a Front-End Developer at <a href="https://www.manatal.com/" target="_blank">Manatal</a>, a recruiting software company using Vue.js, Vuetify, Chrome Extensions, Django REST, I was formerly Teaching Assistant at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a> in Paris, Casablanca, Berlin & Shanghai. I used to work as an audio engineer / music composer and I'm deeply interested in blending technology, creativity and arts. Curious mindset. Love tech, traveling, humour, arts and surfing.
           </p>
           <p>
             You'd know me better by also checking out my <a href="https://ynnsnr.github.io/music" target="_blank">music</a>.
