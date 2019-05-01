@@ -345,7 +345,7 @@ title: Yoann Saunier | Web Dev
             <div class="card-body">
               <div class="h5">Web Development</div>
               <p class="category">Le Wagon Paris (Batch # 177)</p>
-              <p>9-week intensive coding bootcamp learning HTML, CSS, Boostrap, Javascript, jQuery, SQL, git, GitHub, Heroku, and Ruby on Rails. Designed, Implemented and Shipped to production a <a href="http://awesome-suits.herokuapp.com" target="_blank">clone of AirBnB</a> and a Rails prototype of <a href="http://treep.pw" target="_blank">Treep</a></p>
+              <p>9-week intensive coding bootcamp learning HTML, CSS, Bootstrap, Javascript, jQuery, SQL, git, GitHub, Heroku, and Ruby on Rails. Designed, Implemented and Shipped to production a <a href="http://awesome-suits.herokuapp.com" target="_blank">clone of AirBnB</a> and a Rails prototype of <a href="http://treep.pw" target="_blank">Treep</a></p>
             </div>
           </div>
         </div>
