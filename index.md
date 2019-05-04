@@ -159,7 +159,7 @@ title: Yoann Saunier | Web Dev
                 Gmail Email Templates
                 <img src="assets/images/react.png" height="36px" style="padding-bottom: 6px;">
               </div>
-              <p><a href="https://github.com/ynnsnr/gmail-email-templates" target="_blank">Gmail Email Templates</a> is a chrome extension using inboxSDK for managing personal email templates (snippets) directly into Gmail with just a couple of clicks.</p>
+              <p><a href="https://github.com/ynnsnr/gmail-email-templates" target="_blank">Gmail Email Templates</a> is a chrome extension using inboxSDK and React for managing personal email templates (snippets) directly into Gmail with just a couple of clicks.</p>
             </div>
             <div class="col-lg-8">
               <ul id="gifs">
