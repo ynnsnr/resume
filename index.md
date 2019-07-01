@@ -77,7 +77,7 @@ title: Yoann Saunier | Web Dev
             <p class="category text-white">Full Stack Web Developer</p>
             <div>
               <a class="btn btn-primary waves-effect waves-light m-1 smooth-scroll" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Contact</a>
-              <a class="btn btn-primary waves-effect waves-light m-1" href="assets/pdf/resume-yoann-saunier.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" target="_blank">Download CV</a>
+              <a class="btn btn-primary waves-effect waves-light m-1" href="assets/pdf/resume-yoann-saunier.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" target="_blank">Resume</a>
             </div>
           </div>
         </div>
@@ -91,7 +91,10 @@ title: Yoann Saunier | Web Dev
         <div class="card-body">
           <div class="h4 mt-0 title">About me</div>
           <p>
-            I'm a Full Stack Web Developer with an entrepreneurial mindset and a strong Front-End sensitivity. Now working as a Front-End Developer at <a href="https://www.manatal.com" target="_blank">Manatal</a>, a recruiting software company using Vue.js, Vuetify, Chrome Extensions and Django REST, I was formerly a Teaching Assistant at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a> in Paris, Casablanca, Berlin & Shanghai. I used to work as an audio engineer / music composer and I'm deeply interested in blending technology, creativity and arts. With a curious mindset, I love tech, traveling, humour, arts and surfing.
+            I'm a Full Stack Web Developer with an entrepreneurial mindset and a strong Front-End sensitivity. Formely working as a Front-End Developer at <a href="https://www.manatal.com" target="_blank">Manatal</a>, a recruiting software company using Vue.js, Vuetify, Chrome Extensions and Django REST, and as a Teaching Assistant at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a> in Paris, Casablanca, Berlin & Shanghai.
+          </p>
+          <p>
+            I used to work as an audio engineer / music composer and I'm deeply interested in blending technology, creativity and arts. With a curious mindset, I love tech, traveling, humour, arts and surfing.
           </p>
           <p>
             You'd know me better by also checking out my <a href="https://ynnsnr.github.io/music" target="_blank">music</a>.
