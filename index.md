@@ -162,7 +162,7 @@ title: Yoann Saunier | Web Dev
                 Gmail Email Templates
                 <img src="assets/images/react.png" height="36px" style="padding-bottom: 6px;">
               </div>
-              <p><a href="https://github.com/ynnsnr/gmail-email-templates" target="_blank">Gmail Email Templates</a> is a chrome extension using inboxSDK and React for managing personal email templates (snippets) directly into Gmail with just a couple of clicks.</p>
+              <p><a href="https://github.com/ynnsnr/gmail-email-templates" target="_blank">Gmail Email Templates</a> is a chrome extension using inboxSDK and React for managing personal email templates (snippets) directly into Gmail, with just a couple of clicks.</p>
             </div>
             <div class="col-lg-8">
               <ul id="gifs">
@@ -184,9 +184,52 @@ title: Yoann Saunier | Web Dev
 
           <div class="row">
             <div class="col-lg-4">
+              <div class="h4 mt-0 title">Bookmania</div>
+              <p>
+                <a href="https://www.bookmania.ma/" target="_blank">Bookmania</a> is a website for a school support company in Casablanca, using Jekyll and Material Design for Bootstrap 4.
+              </p>
+              <br>
+              <p>
+                It's hosted on GitHub Pages and doesn't require any back-end server, thanks to Formspree and Simple Form.
+              </p>
+            </div>
+            <div class="col-lg-8">
+              <ul id="imageGallery">
+                <li>
+                  <a href="assets/images/bookmania-home.jpg">
+                    <img src="assets/images/bookmania-home.jpg">
+                  </a>
+                </li>
+                <li>
+                  <a href="assets/images/bookmania-languages.jpg">
+                    <img src="assets/images/bookmania-languages.jpg">
+                  </a>
+                </li>
+                <li>
+                  <a href="assets/images/bookmania-contact.jpg">
+                    <img src="assets/images/bookmania-contact.jpg">
+                  </a>
+                </li>
+                <li>
+                  <a href="assets/images/bookmania-reviews.jpg">
+                    <img src="assets/images/bookmania-reviews.jpg">
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <hr>
+
+          <div class="row">
+            <div class="col-lg-4">
               <div class="h4 mt-0 title">Treep</div>
               <p>
-                <a href="http://treep.pw" target="_blank">Treep</a> is the final project I made with my team during <a href="https://www.lewagon.com" target="_blank">Le Wagon</a>. A visual decision system tool for travel agencies. By helping them create trips quickly and easily, and visualizing different possible itineraries, <a href="http://treep.pw" target="_blank">Treep</a> enhances both flexibility and communication with travelers.
+                <a href="http://treep.pw" target="_blank">Treep</a> is the final project I made with my team during <a href="https://www.lewagon.com" target="_blank">Le Wagon</a>. A visual decision system tool for travel agencies.
+              </p>
+              <br>
+              <p>
+                By helping them create trips quickly and easily, and visualizing different possible itineraries, <a href="http://treep.pw" target="_blank">Treep</a> enhances both flexibility and communication with travelers.
               </p>
             </div>
             <div class="col-lg-8">
@@ -297,13 +340,13 @@ title: Yoann Saunier | Web Dev
               <div class="row">
                 <div class="col-6">
                   <div class="skills-elements">
+                    <img src="assets/images/chrome.ico">Extensions
+                  </div>
+                  <div class="skills-elements">
                     <img src="assets/images/heroku.png">Heroku
                   </div>
                   <div class="skills-elements">
                     <img src="assets/images/github.svg">Github
-                  </div>
-                  <div class="skills-elements">
-                    <img src="assets/images/chrome.ico">Extensions
                   </div>
                 </div>
                 <div class="col-6">
