@@ -120,9 +120,7 @@ title: Yoann Saunier | Web Dev
 
           <div class="row">
             <div class="col-lg-5">
-              <div class="h4 mt-0 title">
-                CinePursuit
-              </div>
+              <div class="h4 mt-0 title">CinePursuit</div>
               <p>Jury prize for the <a href="https://lesarcs-filmfest.com/fr/professionnels/hackathon-du-cinema" target="_blank">Hackathon du Cinema</a> with Le Wagon team, in collaboration with <a href="https://github.com/db0sch" target="_blank">Dimitri Bosch</a>, <a href="https://github.com/juliends" target="_blank">Julien Da Silva</a> and <a href="https://github.com/grmnlrt" target="_blank">Germain Loret</a>.</p>
               <p>
                 <a href="https://cinepursuit.com" target="_blank">CinePursuit</a> is a quiz application to help cinema owners and distributors to retain their audience.
@@ -174,6 +172,29 @@ title: Yoann Saunier | Web Dev
                 <li>
                   <a href="https://github.com/ynnsnr/gmail-email-templates" target="_blank">
                     <img src="assets/images/gif3.gif" width="250px">
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <hr>
+
+          <div class="row">
+            <div class="col-lg-4">
+              <div class="h4 mt-0 title">
+                Vue News
+                <img src="assets/images/vue.png" height="26px" style="padding-bottom: 2px;">
+              </div>
+              <p>
+                <a href="https://ynnsnr.github.io/vue-news" target="_blank">Vue News</a> is a front-end application using Vue.js, Vuex and Vuetify, allowing a user to see the news from various websites using <a href="https://newsapi.org" target="_blank">News API</a>.
+              </p>
+            </div>
+            <div class="col-lg-8">
+              <ul id="gifs">
+                <li>
+                  <a href="https://ynnsnr.github.io/vue-news" target="_blank">
+                    <img src="assets/images/vue-news.jpg" style="width: 524px !important;">
                   </a>
                 </li>
               </ul>
