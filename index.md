@@ -44,7 +44,7 @@ title: Yoann Saunier | Web Dev
               <a class="nav-link smooth-scroll waves-effect waves-light" href="#experience">Experience</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link smooth-scroll waves-effect waves-light" href="#skill">Skills</a>
+              <a class="nav-link smooth-scroll waves-effect waves-light" href="#skills">Skills</a>
             </li>
             <li class="nav-item">
               <a class="nav-link smooth-scroll waves-effect waves-light" href="#education">Education</a>
@@ -77,7 +77,7 @@ title: Yoann Saunier | Web Dev
             <p class="category text-white">Full Stack Web Developer</p>
             <div>
               <a class="btn btn-primary waves-effect waves-light m-1 smooth-scroll" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Contact</a>
-              <a class="btn btn-primary waves-effect waves-light m-1" href="assets/pdf/resume-yoann-saunier.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" target="_blank">Resume</a>
+              <!-- <a class="btn btn-primary waves-effect waves-light m-1" href="assets/pdf/resume-yoann-saunier.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" target="_blank">Resume</a> -->
             </div>
           </div>
         </div>
@@ -305,7 +305,7 @@ title: Yoann Saunier | Web Dev
     </div>
   </div>
 
-  <div class="section pt-5" id="skill">
+  <div class="section pt-5" id="skills">
     <div class="container">
       <div class="h4 text-center mb-4 title" data-aos="fade-in">
         <i class="fas fa-palette"></i> Skills
@@ -313,7 +313,7 @@ title: Yoann Saunier | Web Dev
       <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
         <div class="card-body">
 
-          <div class="row justify-content-center" id="skills">
+          <div class="row justify-content-center" id="skill">
             <div class="col-lg-4 col-sm-6 mb-4">
               <h6 class="mt-1 mb-3">Front-End</h6>
               <div class="row">
