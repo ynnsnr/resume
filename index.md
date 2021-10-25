@@ -8,7 +8,7 @@ title: Yoann Saunier | Web Dev
       <div class="container">
         <div class="navbar-translate">
           <div class="navbar-brand">
-            <a class="btn btn-link" target="_blank" href="https://www.linkedin.com/in/yoann-saunier-536368151">
+            <a class="btn btn-link" target="_blank" href="https://www.linkedin.com/in/yoann-saunier">
               <i class="fab fa-linkedin"></i>
             </a>
             <a class="btn btn-link" target="_blank" href="https://github.com/ynnsnr">
@@ -91,13 +91,16 @@ title: Yoann Saunier | Web Dev
         <div class="card-body">
           <div class="h4 mt-0 title">About me</div>
           <p>
-            I'm a Full Stack Web Developer with an entrepreneurial mindset and a strong Front-End sensitivity. Formely working as a Front-End Developer at <a href="https://www.manatal.com" target="_blank">Manatal</a>, a recruiting software company using Vue.js, Vuetify, Chrome Extensions and Django REST, and as a Teaching Assistant at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a> in Paris, Casablanca, Berlin & Shanghai.
+            I'm a Full Stack Web Developer, music composer, and founder at <a href="https://www.jarvis-lyrics.com" target="_blank">Jarvis</a>, an AI-powered lyrics writing asssitant.
           </p>
           <p>
-            I used to work as an audio engineer / music composer and I'm deeply interested in blending technology, creativity and arts. With a curious mindset, I love tech, traveling, humour, arts and surfing.
+            I'm currently working as a web developer at <a href="https://outsourcify.net" target="_blank">Outsourcify</a>, a Bangkok based web agency where we build web applications with Nuxt.js, Symfony + API Platform, Ant Design and Tailwind CSS.
           </p>
           <p>
-            You'd know me better by also checking out my <a href="https://ynnsnr.github.io/music" target="_blank">music</a>.
+            Formely Front-End Developer at <a href="https://www.manatal.com" target="_blank">Manatal</a>, a recruiting software company using Vue.js, Vuetify, Chrome Extensions and Django REST, and as a Teaching Assistant at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a> in Paris, Casablanca, Berlin & Shanghai.
+          </p>
+          <p>
+            I used to work as an audio engineer and I'm deeply interested in blending technology, creativity and arts. With a curious mindset, I love arts, tech, traveling, making jokes and surfing. You'd know me better by also checking out my <a href="https://ynnsnr.github.io/music" target="_blank">music</a>.
           </p>
         </div>
       </div>
@@ -106,7 +109,6 @@ title: Yoann Saunier | Web Dev
 
   <div class="section pt-5" id="experience">
     <div class="container">
-
       <div class="row">
         <div class="col-md-6 ml-auto mr-auto">
           <div class="h4 text-center mb-4 title" data-aos="fade-in">
@@ -114,10 +116,29 @@ title: Yoann Saunier | Web Dev
           </div>
         </div>
       </div>
-
       <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
         <div class="card-body">
-
+        <div class="row">
+            <div class="col-lg-4">
+              <div class="h4 mt-0 title">Jarvis</div>
+              <p>
+                <a href="https://www.jarvis-lyrics.com" target="_blank">Jarvis</a> is a songwriting AI companion app built with Ruby on Rails and powered with <a href="https://openai.com" target="_blank">OpenAI</a> GPT-3, with the purpose of helping people overcome writer's block.
+              </p>
+              <p>
+                The users can create an account and buy credits to generate lyrical material, based on any given artist, genre, title, year, song part or lyrics prompt.
+              </p>
+            </div>
+            <div class="col-lg-8">
+              <ul id="gifs">
+                <li>
+                  <a href="https://www.jarvis-lyrics.com" target="_blank">
+                    <img src="assets/images/jarvis.jpg" style="width: 100%; max-width: 524px !important;">
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <hr>
           <div class="row">
             <div class="col-lg-5">
               <div class="h4 mt-0 title">CinePursuit</div>
@@ -151,9 +172,7 @@ title: Yoann Saunier | Web Dev
               </div>
             </div>
           </div>
-
           <hr>
-
           <div class="row">
             <div class="col-lg-4">
               <div class="h4 mt-0 title">
@@ -177,9 +196,7 @@ title: Yoann Saunier | Web Dev
               </ul>
             </div>
           </div>
-
           <hr>
-
           <div class="row">
             <div class="col-lg-4">
               <div class="h4 mt-0 title">
@@ -194,15 +211,13 @@ title: Yoann Saunier | Web Dev
               <ul id="gifs">
                 <li>
                   <a href="https://ynnsnr.github.io/vue-news" target="_blank">
-                    <img src="assets/images/vue-news.jpg" style="width: 524px !important;">
+                    <img src="assets/images/vue-news.jpg" style="width: 100%; max-width: 524px !important;">
                   </a>
                 </li>
               </ul>
             </div>
           </div>
-
           <hr>
-
           <div class="row">
             <div class="col-lg-4">
               <div class="h4 mt-0 title">Bookmania</div>
@@ -239,9 +254,7 @@ title: Yoann Saunier | Web Dev
               </ul>
             </div>
           </div>
-
           <hr>
-
           <div class="row">
             <div class="col-lg-4">
               <div class="h4 mt-0 title">Treep</div>
@@ -265,9 +278,7 @@ title: Yoann Saunier | Web Dev
               </div>
             </div>
           </div>
-
           <hr>
-
           <div class="row">
             <div class="col-lg-4">
               <div class="h4 mt-0 title">Awesome Suits</div>
@@ -298,13 +309,10 @@ title: Yoann Saunier | Web Dev
               </ul>
             </div>
           </div>
-
         </div>
       </div>
-
     </div>
   </div>
-
   <div class="section pt-5" id="skills">
     <div class="container">
       <div class="h4 text-center mb-4 title" data-aos="fade-in">
@@ -312,20 +320,21 @@ title: Yoann Saunier | Web Dev
       </div>
       <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
         <div class="card-body">
-
           <div class="row justify-content-center" id="skill">
             <div class="col-lg-4 col-sm-6 mb-4">
               <h6 class="mt-1 mb-3">Front-End</h6>
               <div class="row">
                 <div class="col-6">
-                  <div class="skills-elements"><img src="assets/images/html.png">HTML5</div>
-                  <div class="skills-elements"><img src="assets/images/css.png">CSS / SASS</div>
-                  <div class="skills-elements"><img src="assets/images/javascript.png">JS / ES6</div>
+                  <div class="skills-elements"><img src="assets/images/vue.png">Vue.js</div>
+                  <div class="skills-elements"><img src="assets/images/nuxt.svg">Nuxt.js</div>
+                  <div class="skills-elements"><img src="assets/images/react.png">React</div>
                 </div>
                 <div class="col-6">
-                  <div class="skills-elements"><img src="assets/images/bootstrap.png">Bootstrap</div>
-                  <div class="skills-elements"><img src="assets/images/react.png">React</div>
-                  <div class="skills-elements"><img src="assets/images/vue.png">Vue.js</div>
+                  <div class="skills-elements"><img src="assets/images/javascript.png">JavaScript</div>
+                  <div class="skills-elements"><img src="assets/images/ant.svg">Ant Design</div>
+                  <div class="skills-elements"><img src="assets/images/tailwind.png">Tailwind CSS</div>
+                  <!-- <div class="skills-elements"><img src="assets/images/css.png">CSS / SASS</div> -->
+                  <!-- <div class="skills-elements"><img src="assets/images/bootstrap.png">Bootstrap</div> -->
                 </div>
               </div>
             </div>
@@ -334,25 +343,37 @@ title: Yoann Saunier | Web Dev
               <div class="row">
                 <div class="col-6">
                   <div class="skills-elements">
+                    <img src="assets/images/symfony.png">Symfony
+                  </div>
+                  <div class="skills-elements">
+                    <img src="assets/images/api-platform.png">API Platform
+                  </div>
+                  <div class="skills-elements">
+                    <img src="assets/images/mysql.png">MySQL
+                  </div>
+                </div>
+                <div class="col-6">
+                  <div class="skills-elements">
                     <img src="assets/images/ruby.png">Ruby
                   </div>
                   <div class="skills-elements">
                     <img src="assets/images/rails.png">Rails
                   </div>
                   <div class="skills-elements">
+                    <img src="assets/images/postgresql.png">PostGreSQL
+                  </div>
+                  <!-- <div class="skills-elements">
                     <img src="assets/images/webpack.png">Webpack
-                  </div>
-                </div>
-                <div class="col-6">
-                  <div class="skills-elements">
+                  </div> -->
+                  <!-- <div class="skills-elements">
                     <img src="assets/images/middleman.png">Middleman
-                  </div>
-                  <div class="skills-elements">
+                  </div> -->
+                  <!-- <div class="skills-elements">
                     <img src="assets/images/jekyll.png">Jekyll
-                  </div>
-                  <div class="skills-elements">
+                  </div> -->
+                  <!-- <div class="skills-elements">
                     <img src="assets/images/sinatra.png">Sinatra
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>
@@ -364,22 +385,22 @@ title: Yoann Saunier | Web Dev
                     <img src="assets/images/chrome.ico">Extensions
                   </div>
                   <div class="skills-elements">
-                    <img src="assets/images/heroku.png">Heroku
+                    <img src="assets/images/github.svg">Git / Github
                   </div>
-                  <div class="skills-elements">
-                    <img src="assets/images/github.svg">Github
-                  </div>
+                  <!-- <div class="skills-elements">
+                    <img src="assets/images/git.png">Git
+                  </div> -->
                 </div>
                 <div class="col-6">
                   <div class="skills-elements">
-                    <img src="assets/images/postgresql.png">PostGreSQL
+                    <img src="assets/images/heroku.png">Heroku
                   </div>
                   <div class="skills-elements">
-                    <img src="assets/images/git.png">Git
+                    <img src="assets/images/aws.png">AWS
                   </div>
-                  <div class="skills-elements">
+                  <!-- <div class="skills-elements">
                     <img src="assets/images/wechat.png">WeChat MP
-                  </div>
+                  </div> -->
                 </div>
               </div>
             </div>
@@ -399,7 +420,6 @@ title: Yoann Saunier | Web Dev
       <div class="h4 text-center mb-4 title" data-aos="fade-in">
         <i class="fas fa-graduation-cap"></i> Education
       </div>
-
       <div class="card">
         <div class="row m-0">
           <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
@@ -417,7 +437,6 @@ title: Yoann Saunier | Web Dev
           </div>
         </div>
       </div>
-
       <div class="card">
         <div class="row m-0">
           <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
@@ -435,7 +454,6 @@ title: Yoann Saunier | Web Dev
           </div>
         </div>
       </div>
-
       <div class="card">
         <div class="row m-0">
           <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
@@ -457,10 +475,8 @@ title: Yoann Saunier | Web Dev
           </div>
         </div>
       </div>
-
     </div>
   </div>
-
   <div class="section pt-5" id="contact">
     <div class="container cc-contact-information">
       <div class="row cc-contact">
@@ -470,7 +486,7 @@ title: Yoann Saunier | Web Dev
             <div class="card-body">
               <a href="mailto:yoann@saunier.me">yoann@saunier.me</a>
               <div class="pt-4">
-                <a class="cc-social btn btn-link" target="_blank" href="https://www.linkedin.com/in/yoann-saunier-536368151" >
+                <a class="cc-social btn btn-link" target="_blank" href="https://www.linkedin.com/in/yoann-saunier" >
                   <i class="fab fa-linkedin fa-3x"></i>
                 </a>
                 <a class="cc-social btn btn-link" target="_blank" href="https://github.com/ynnsnr">
@@ -486,5 +502,4 @@ title: Yoann Saunier | Web Dev
       </div>
     </div>
   </div>
-
 </div>
