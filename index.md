@@ -91,10 +91,11 @@ title: Yoann Saunier | Web Dev
         <div class="card-body">
           <div class="h4 mt-0 title">About me</div>
           <p>
-            I'm a Full Stack Web Developer, music composer, and founder at <a href="https://www.jarvis-lyrics.com" target="_blank">Jarvis</a>, an AI-powered lyrics writing asssitant.
+            I'm a Full Stack Web Developer, music composer and founder at <a href="https://www.jarvis-lyrics.com" target="_blank">Jarvis</a>, an AI-powered lyrics writing assistant, and
+            <a href="https://www.beathub.co" target="_blank">BeatHub</a>, a web radio for music producers, DJs and rappers.
           </p>
           <p>
-            I'm currently working as a web developer at <a href="https://outsourcify.net" target="_blank">Outsourcify</a>, a Bangkok based web agency where we build web applications with Nuxt.js, Symfony + API Platform, Ant Design and Tailwind CSS.
+            I'm currently working as a web developer at <a href="https://outsourcify.net" target="_blank">Outsourcify</a>, a Bangkok based web agency where we build web applications with Nuxt.js, Symfony, Node.js...
           </p>
           <p>
             Formely Front-End Developer at <a href="https://www.manatal.com" target="_blank">Manatal</a>, a recruiting software company using Vue.js, Vuetify, Chrome Extensions and Django REST, and as a Teaching Assistant at <a href="https://www.lewagon.com" target="_blank">Le Wagon</a> in Paris, Casablanca, Berlin & Shanghai.
@@ -118,7 +119,28 @@ title: Yoann Saunier | Web Dev
       </div>
       <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
         <div class="card-body">
-        <div class="row">
+          <div class="row">
+            <div class="col-lg-4">
+              <div class="h4 mt-0 title">Beathub</div>
+              <p>
+                <a href="https://www.beathub.co" target="_blank">BeatHub</a> is a web radio that let music producers dig randomly and continuously through 50,000+ sample packs, preset packs, MIDI packs and construction kits from Splice, Landr, Loopcloud, ADSR, Producer Loops, WA Production, Noiiz, Wavs... DJs and rappers can also stream 600k+ tracks from BeatStars, Beatport, Airbit...
+              </p>
+              <p>
+                The app is built with Ruby on Rails. The users can create a free account to save their favorite tracks and sample packs, and access their listening history.
+              </p>
+            </div>
+            <div class="col-lg-8">
+              <ul id="gifs">
+                <li>
+                  <a href="https://www.beathub.co" target="_blank">
+                    <img src="assets/images/beathub.jpg" style="width: 100%; max-width: 524px !important;">
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <hr>
+          <div class="row">
             <div class="col-lg-4">
               <div class="h4 mt-0 title">Jarvis</div>
               <p>
@@ -345,9 +367,9 @@ title: Yoann Saunier | Web Dev
                   <div class="skills-elements">
                     <img src="assets/images/symfony.png">Symfony
                   </div>
-                  <div class="skills-elements">
+                  <!-- <div class="skills-elements">
                     <img src="assets/images/api-platform.png">API Platform
-                  </div>
+                  </div> -->
                   <div class="skills-elements">
                     <img src="assets/images/mysql.png">MySQL
                   </div>
@@ -382,16 +404,8 @@ title: Yoann Saunier | Web Dev
               <div class="row">
                 <div class="col-6">
                   <div class="skills-elements">
-                    <img src="assets/images/chrome.ico">Extensions
+                    <img src="assets/images/digitalocean.png">Digital Ocean
                   </div>
-                  <div class="skills-elements">
-                    <img src="assets/images/github.svg">Git / Github
-                  </div>
-                  <!-- <div class="skills-elements">
-                    <img src="assets/images/git.png">Git
-                  </div> -->
-                </div>
-                <div class="col-6">
                   <div class="skills-elements">
                     <img src="assets/images/heroku.png">Heroku
                   </div>
@@ -400,6 +414,17 @@ title: Yoann Saunier | Web Dev
                   </div>
                   <!-- <div class="skills-elements">
                     <img src="assets/images/wechat.png">WeChat MP
+                  </div> -->
+                </div>
+                <div class="col-6">
+                  <div class="skills-elements">
+                    <img src="assets/images/chrome.ico">Extensions
+                  </div>
+                  <div class="skills-elements">
+                    <img src="assets/images/github.svg">Git / Github
+                  </div>
+                  <!-- <div class="skills-elements">
+                    <img src="assets/images/git.png">Git
                   </div> -->
                 </div>
               </div>
